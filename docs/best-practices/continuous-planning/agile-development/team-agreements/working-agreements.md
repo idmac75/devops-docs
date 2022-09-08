@@ -28,7 +28,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 ## Communication
 
 - We communicate all information relevant to the team through the Project Teams channel
-- We add all [technical spikes](../../design-reviews/technical-spike.md), [design reviews](../../../continuous-planning/design-reviews.md), and other technical documentation to the project repository through [async design reviews in PRs](../../design-reviews/async-design-reviews.md)
+- We add all [technical spikes](../../design-reviews/technical-spike.md), [design reviews](../../../continuous-planning/design-reviews.md), and other technical documentation to the project repository through [async design reviews](../../design-reviews/async-design-reviews.md) in PRs
 
 ## Work-life Balance
 
@@ -87,4 +87,4 @@ The Process Lead is responsible for leading any scrum or agile practices to enab
 - All PRs are reviewed by at least two engineers
 - We always review existing PRs before starting work on a new task
 - We look through open PRs at the end of stand-up to make sure all PRs have reviewers.
-- We treat documentation as code and apply the same [standards to markdown](../../code-reviews/recipes/markdown.md) as code
+- We treat documentation as code and apply the same standards to markdown as we do with code
